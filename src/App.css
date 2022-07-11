@@ -1,0 +1,23 @@
+.titlepanel {
+  background-color: transparent;
+}
+
+.header {
+  background-color: black;
+  color: red;
+  text-align: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 11vh;
+  position: absolute;
+  font-family: monospace;
+}
+
+.popname {
+  text-align: center;
+}
+
+App {
+  background-color: black;
+}

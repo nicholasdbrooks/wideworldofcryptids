@@ -1,0 +1,1073 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brosno Dragon (Brosnya)",
+        "picture": "https://static.wikia.nocookie.net/monster/images/2/2a/Bosno_dragon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Brosno_dragon"
+      },
+      "geometry": {
+        "coordinates": [56.85860116230354, 31.926239882871098],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadborosaurus (Caddy)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/a/a1/Caddy1.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Cadborosaurus"
+      },
+      "geometry": {
+        "coordinates": [48.45541772732744, -123.29250177867732],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champ",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/0/08/Lakemonst.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Champ_(folklore)"
+      },
+      "geometry": {
+        "coordinates": [44.58822469616721, -73.3808889569289],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dobhar-chu (Water Hound)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dobhar-chu_encounter.jpg/180px-Dobhar-chu_encounter.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Dobhar-ch%C3%BA"
+      },
+      "geometry": {
+        "coordinates": [53.96376129085831, -10.015274457347413],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Igopogo (Kempenfelt Kelly)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/98/Okaythen.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Igopogo"
+      },
+      "geometry": {
+        "coordinates": [44.433441971277844, -79.38426046974051],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isshii (Issie)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/2/2a/220px-Issie.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Issie"
+      },
+      "geometry": {
+        "coordinates": [31.23649186751299, 130.5637385792916],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kusshii (Kussie)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/5/5e/Uma-31-061.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Kussie"
+      },
+      "geometry": {
+        "coordinates": [43.60253427864041, 144.31281521890415],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labynkyr Devil",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/2/2e/Siberianessie1.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Labynkyr_Lake"
+      },
+      "geometry": {
+        "coordinates": [62.50042912616957, 143.59733687287994],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Ness Monster (Nessie)",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Hoaxed_photo_of_the_Loch_Ness_monster.jpg/230px-Hoaxed_photo_of_the_Loch_Ness_monster.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Loch_Ness_Monster"
+      },
+      "geometry": {
+        "coordinates": [57.27207575946711, -4.493532690256397],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loveland Frog",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Loveland_frog.png/180px-Loveland_frog.png",
+        "wiki": "https://en.wikipedia.org/wiki/Loveland_Frog"
+      },
+      "geometry": {
+        "coordinates": [39.26900686296636, -84.26522528665178],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mamlambo",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/ed/Mamlambo.png",
+        "wiki": "https://en.wikipedia.org/wiki/Mamlambo"
+      },
+      "geometry": {
+        "coordinates": [-30.820321859325254, 29.346286453850432],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manipogo (Winnipogo)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/a/a0/Manipogo.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Manipogo"
+      },
+      "geometry": {
+        "coordinates": [50.59654730338786, -98.39139520512849],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokele-mbembe",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mokele-mbembe_ill_artlibre_jnl.png/180px-Mokele-mbembe_ill_artlibre_jnl.png",
+        "wiki": "https://en.wikipedia.org/wiki/Mokele-mbembe"
+      },
+      "geometry": {
+        "coordinates": [1.34865055782971, 17.149872004661145],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahuelito",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nahuelito_crop.jpg/180px-Nahuelito_crop.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Nahuelito"
+      },
+      "geometry": {
+        "coordinates": [-40.91972230176405, -71.50933684867879],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ningen",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ningen.jpg/180px-Ningen.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Ningen_(folklore)"
+      },
+      "geometry": {
+        "coordinates": [-60.61463162789525, 19.707206072159245],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogopogo (Naitaka)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e6/Ogopogo7.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Ogopogo"
+      },
+      "geometry": {
+        "coordinates": [49.84780760111459, -119.51746269144736],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selma (Seljordsormen)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e3/Sasimages.jpeg",
+        "wiki": "https://en.wikipedia.org/wiki/Selma_(lake_monster)"
+      },
+      "geometry": {
+        "coordinates": [59.480765056090036, 8.656625010838129],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steller's Sea Ape",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Animal_drawings_collected_by_Felix_Platter%2C_p1_-_%2831%29.jpg/180px-Animal_drawings_collected_by_Felix_Platter%2C_p1_-_%2831%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Steller%27s_sea_ape"
+      },
+      "geometry": {
+        "coordinates": [55.16741568663657, -163.63146270107302],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almas",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/8/81/Almas.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Almas_(folklore)"
+      },
+      "geometry": {
+        "coordinates": [43.103079854238395, 42.99241940563025],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barmanou (Big Hairy One)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/d/d5/Fc19575afa0e5c7dfbcaafd945863ac6.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Barmanou"
+      },
+      "geometry": {
+        "coordinates": [35.038088969362875, 74.23606071015824],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beast of Bodmin Moor",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/3/39/328px-BOC.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Beast_of_Bodmin_Moor"
+      },
+      "geometry": {
+        "coordinates": [50.55490132342448, -4.608907881033734],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beast of Exmoor",
+        "picture": "https://www.thebestofexmoor.co.uk/blog/wp-content/uploads/2019/05/beast-of-exmoor-2.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Beast_of_Exmoor"
+      },
+      "geometry": {
+        "coordinates": [51.134636530853825, -3.6462416949097647],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bigfoot (Sasquatch)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/42/Image-1410792396.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Bigfoot"
+      },
+      "geometry": {
+        "coordinates": [48.2771147390141, -121.05407802586531],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Timah Monkey Man (BTMM)",
+        "picture": "https://explorersg.com/wp-content/uploads/Bukit-Timah-Monkey-man.png",
+        "wiki": "https://en.wikipedia.org/wiki/Bukit_Timah_Monkey_Man"
+      },
+      "geometry": {
+        "coordinates": [1.329291641602204, 103.80082654074599],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chupacabra",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chupacabra_%28artist%27s_rendition%29.jpg/180px-Chupacabra_%28artist%27s_rendition%29.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Chupacabra"
+      },
+      "geometry": {
+        "coordinates": [18.374657204680904, -65.89978973617256],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dover Demon",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/47/D_demon.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Dover_Demon"
+      },
+      "geometry": {
+        "coordinates": [42.24608476394608, -71.28319447470834],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elwetritsch",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/20180905Marktbrunnen_Neustadt4.jpg/180px-20180905Marktbrunnen_Neustadt4.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Elwetritsch"
+      },
+      "geometry": {
+        "coordinates": [49.28246078116748, 7.790375369141674],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fouke Monster (Beast of Boggy Creek)",
+        "picture": "https://img.atlasobscura.com/f2fN_nu918r-bkzAOT3HZ4kx5Ry9x5YECx844m_dP_s/rt:fit/h:390/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yODI5/YzYwYzU0OTgzNjI2/YjJkNzgwY2Y0NjJh/YTA0MGZlOWEyMmI1/LmpwZw.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Fouke_Monster"
+      },
+      "geometry": {
+        "coordinates": [33.26591664405276, -93.88484467658219],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honey Island Swamp Monster",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/3/31/HONEY_ISLAND_SWAMP_MONSTER.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Honey_Island_Swamp_monster"
+      },
+      "geometry": {
+        "coordinates": [30.28295100901521, -89.67559819935396],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lizard Man of Scape Ore Swamp",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/41/Lizardman.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Lizard_Man_of_Scape_Ore_Swamp"
+      },
+      "geometry": {
+        "coordinates": [33.99067052803215, -80.24030245386098],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Dogman",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/1/14/Barn_dogman.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Michigan_Dogman"
+      },
+      "geometry": {
+        "coordinates": [44.33507457855279, -85.57429878038678],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minhocao (Big Earthworm)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/9a/Wormy.png",
+        "wiki": "https://en.wikipedia.org/wiki/Minhoc%C3%A3o_(legendary_creature)"
+      },
+      "geometry": {
+        "coordinates": [-6.628622457308617, -53.80857926404483],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongolian Death Worm",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Allghoikhorkhoi.jpg/180px-Allghoikhorkhoi.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Mongolian_death_worm"
+      },
+      "geometry": {
+        "coordinates": [43.25557084224307, 97.35657580299362],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkey Man of Delhi",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/3/37/Lan.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Monkey-man_of_Delhi"
+      },
+      "geometry": {
+        "coordinates": [28.691710597270298, 77.22021281981391],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orang Mawas",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/40/Mawas4asmflat_01.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Orang_Mawas"
+      },
+      "geometry": {
+        "coordinates": [2.3262311890895764, 103.46571463526558],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skunk Ape (Swamp Ape)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Shealy_ape.jpg/180px-Shealy_ape.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Skunk_ape"
+      },
+      "geometry": {
+        "coordinates": [26.127642669542627, -81.05137665924067],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeren",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/5/56/Yeren_(Chinese_Wildman).jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Yeren"
+      },
+      "geometry": {
+        "coordinates": [31.508825058145206, 110.1967612508083],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yeti",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/B5bugerbear.jpg/180px-B5bugerbear.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Yeti"
+      },
+      "geometry": {
+        "coordinates": [27.84217207412271, 87.20499647212884],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yowie",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yowie-statue-Kilcoy-Queensland.JPG/180px-Yowie-statue-Kilcoy-Queensland.JPG",
+        "wiki": "https://en.wikipedia.org/wiki/Yowie"
+      },
+      "geometry": {
+        "coordinates": [-23.954658470743258, 136.40078077236802],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jersey Devil (Leeds Devil)",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jersey_Devil_Philadelphia_Post_1909.jpg/180px-Jersey_Devil_Philadelphia_Post_1909.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Jersey_Devil"
+      },
+      "geometry": {
+        "coordinates": [39.870189141673045, -74.5840445147521],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mothman",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mothman_Artist%27s_Impression.png/180px-Mothman_Artist%27s_Impression.png",
+        "wiki": "https://en.wikipedia.org/wiki/Mothman"
+      },
+      "geometry": {
+        "coordinates": [38.84493713525709, -82.13733842738885],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owlman",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/4f/Death_Raptor.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Owlman"
+      },
+      "geometry": {
+        "coordinates": [50.105399651499646, -5.09595826290044],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thunderbird",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Vintage_Thunderbird_latch_hooked_rug.jpg/180px-Vintage_Thunderbird_latch_hooked_rug.jpg",
+        "wiki": "https://en.wikipedia.org/wiki/Thunderbird_(mythology)"
+      },
+      "geometry": {
+        "coordinates": [43.819832420131654, -122.32577749597586],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cactus Cat",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e1/Cactus_cat_By_Tryon.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Cactus_Cat"
+      },
+      "geometry": {
+        "coordinates": [35.60138399738157, -107.63162430843816],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dingbat",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/4a/ImgDingbat.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Dingbat"
+      },
+      "geometry": {
+        "coordinates": [45.50771857354378, -91.73532138546608],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flatwoods Monster",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/d/d2/The-Flatwoods-Monster.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Flatwoods_Monster"
+      },
+      "geometry": {
+        "coordinates": [38.71987446500948, -80.65166635683124],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresno Nightcrawler",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/48/Crawler.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Fresno_Nightcrawler"
+      },
+      "geometry": {
+        "coordinates": [36.741662576160444, -119.79062246571182],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skinwalker",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/b/bd/Skinwalker.jpeg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Skin-walker"
+      },
+      "geometry": {
+        "coordinates": [40.25870699109986, -109.8887057066761],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahuitzotl",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/0/04/Ahuizotl.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Ahuitzotl"
+      },
+      "geometry": {
+        "coordinates": [18.688210440653567, -101.36153321315622],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agogwe",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/7/7d/Agogwe.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Agogwe"
+      },
+      "geometry": {
+        "coordinates": [-8.561757994828628, 37.03206595243727],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahool",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/f/ff/Ahool.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Ahool"
+      },
+      "geometry": {
+        "coordinates": [-7.23479922961586, 109.6443937465722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akkorokamui",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/2/27/Akkorokamui1.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Akkorokamui"
+      },
+      "geometry": {
+        "coordinates": [42.34950938908461, 140.63866296851324],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auli",
+        "picture": "https://static.wikia.nocookie.net/cryptidarchives/images/e/e7/Auli_Coudray.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Auli"
+      },
+      "geometry": {
+        "coordinates": [34.96406442867481, 34.086308107334325],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shore Laddie (Fjorulalli, Beach Walker)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/b/b9/SL2.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Shore_Laddie"
+      },
+      "geometry": {
+        "coordinates": [65.67527172238421, -23.08705716124324],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beast of Busco",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/a/ae/Beastofbusco.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Beast_of_Busco"
+      },
+      "geometry": {
+        "coordinates": [41.23940788101505, -85.36202022853304],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beast of Gevaudan",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/2/29/Gevaudan.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Beast_of_Gevaudan"
+      },
+      "geometry": {
+        "coordinates": [47.26509829451391, 3.510337872899021],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bessie (South Bay Bessie)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/8/88/Sauro.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Bessie"
+      },
+      "geometry": {
+        "coordinates": [42.19183416392185, -81.21571730365581],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukavac",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/90/Buka.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Bukavac"
+      },
+      "geometry": {
+        "coordinates": [45.34421915880713, 18.99307720989487],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunyip",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/6/66/Bunyip.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Bunyip"
+      },
+      "geometry": {
+        "coordinates": [-35.478373704882834, 147.45833078803412],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burrunjor (Bunnasur)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/46/Burrunjor_footprint.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Burrunjor"
+      },
+      "geometry": {
+        "coordinates": [-14.900958695077236, 133.2192267315078],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canvey Island Monster",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/f/fa/Fir_cryptid_wiki_5.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Canvey_Island_Monster"
+      },
+      "geometry": {
+        "coordinates": [51.51966501799629, 0.5803461688982755],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corfu Island Creature",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/f/ff/Greece.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Corfu_Island_Creature"
+      },
+      "geometry": {
+        "coordinates": [39.62860594089554, 19.919827401290313],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devil Bird (Ulama)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/a/a8/Devil_bird.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Devil_Bird"
+      },
+      "geometry": {
+        "coordinates": [7.625463697869885, 80.73748259542691],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devouring Gourd",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/3/30/Swallowing-gourd-final.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Devouring_Gourd"
+      },
+      "geometry": {
+        "coordinates": [-7.569425044759174, 25.210630763282833],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drekavac",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/41/Jkln.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Drekavac"
+      },
+      "geometry": {
+        "coordinates": [43.130670978054454, 20.37061958883841],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundas Island Blackfly",
+        "picture": "https://static.wikia.nocookie.net/cryptozoologypedia/images/a/a9/Dumass.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Dundas_Island_Blackfly"
+      },
+      "geometry": {
+        "coordinates": [54.5649251953962, -130.8681792677635],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Cuero",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/5/5f/El_Cuero.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/El_Cuero"
+      },
+      "geometry": {
+        "coordinates": [-40.1707298787602, -71.5306578406291],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emela-Ntouka",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e0/Emela-ntouka.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Emela-Ntouka"
+      },
+      "geometry": {
+        "coordinates": [1.594626070021234, 13.582308865137188],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Am Fear Liath Mor (Big Grey Man)",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/90/ImagesCAS5I97H.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Fear_Liath_Moor"
+      },
+      "geometry": {
+        "coordinates": [57.070756888360904, -3.6718577044887333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grootslang",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/d/de/Grootslang_3.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Grootslang"
+      },
+      "geometry": {
+        "coordinates": [-28.580699184346827, 17.204592153440906],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopkinsville Goblins",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/c/c0/Kelly_Hopkinsville2.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Hopkinsville_Goblins"
+      },
+      "geometry": {
+        "coordinates": [36.86212619731144, -87.4884492559629],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaiaimunu",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/41/Therizinosaurus_the_stompling_land_03_by_swordlord3d-d7zmc3d.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Kaiaimunu"
+      },
+      "geometry": {
+        "coordinates": [-5.571562760636933, 142.82188007813534],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawuk",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/3/30/Herrerasaurus.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Kawuk"
+      },
+      "geometry": {
+        "coordinates": [-7.73092441466304, 108.9196270702733],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraken",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/0/0a/Kraken.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Kraken"
+      },
+      "geometry": {
+        "coordinates": [68.86351746237422, 10.825540207982437],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mantis Man",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/90/Mantis_man.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Mantis_Man"
+      },
+      "geometry": {
+        "coordinates": [40.867892662966156, -74.80318194430336],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moehau",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/4e/Moehau2.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Moehau"
+      },
+      "geometry": {
+        "coordinates": [-39.198757533558506, 176.055484795874],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monster of Lake Tota",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/5/55/TotaMonster.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Monster_of_Lake_Tota"
+      },
+      "geometry": {
+        "coordinates": [5.54266899633906, -72.92214557012397],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morag",
+        "picture": "https://i2-prod.dailyrecord.co.uk/incoming/article2219769.ece/ALTERNATES/s810/Morag-of-Loch-Morar.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Morag"
+      },
+      "geometry": {
+        "coordinates": [56.952657153751744, -5.696571319590744],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murray",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/40/Burrunjor_carving.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Murray"
+      },
+      "geometry": {
+        "coordinates": [-6.99560067740043, 141.50641484829205],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Popobawa",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e6/Popobawa.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Popobawa"
+      },
+      "geometry": {
+        "coordinates": [-5.140327702244521, 39.782909293102485],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raystown Ray",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/8/8c/Raystown_ray.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Raystown_Ray"
+      },
+      "geometry": {
+        "coordinates": [40.34614990555353, -78.13821939057414],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skeljaskrimsli",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/e/e1/65974d33e6d0f12d4a101c0a59848342.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Skeljaskr%C3%ADmsli"
+      },
+      "geometry": {
+        "coordinates": [66.21126738736905, -15.601459911511931],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring-Heeled Jack",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/2/29/Springheeledjack.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Spring-Heeled_Jack"
+      },
+      "geometry": {
+        "coordinates": [51.60450795725534, -0.02556424937758843],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Storsjoodjuret",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/9/9e/Vik.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Storsj%C3%B6odjuret"
+      },
+      "geometry": {
+        "coordinates": [63.19740195420285, 14.344986929510588],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokoloshe",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/0/03/Tokoloshe.png",
+        "wiki": "https://cryptidz.fandom.com/wiki/Tokoloshe"
+      },
+      "geometry": {
+        "coordinates": [-28.945764914794676, 28.608830261236385],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsuchinoko",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/4/49/9k%3D-0.jpeg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Tsuchinoko"
+      },
+      "geometry": {
+        "coordinates": [35.645495468613426, 137.32731992963883],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendigo",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/0/07/Windigocolor.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Wendigo"
+      },
+      "geometry": {
+        "coordinates": [55.68337921762923, -125.5500659812736],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White River Monster",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/5/54/White-river-monster.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/White_River_Monster"
+      },
+      "geometry": {
+        "coordinates": [35.62642594550469, -91.2842249358004],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wood Booger",
+        "picture": "https://static.wikia.nocookie.net/cryptidz/images/1/1f/Wood.jpg",
+        "wiki": "https://cryptidz.fandom.com/wiki/Wood_Booger"
+      },
+      "geometry": {
+        "coordinates": [37.64953796663184, -80.88298864889595],
+        "type": "Point"
+      }
+    }      
+  ],
+  "type": "FeatureCollection"
+}
